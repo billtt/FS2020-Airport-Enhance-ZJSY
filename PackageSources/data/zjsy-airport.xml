@@ -874,11 +874,11 @@
 		<TaxiwayPoint parentGroupID="8" groupIndex="718" index="623" type="NORMAL" orientation="FORWARD" lat="18.30899108201270" lon="109.41127449274100"/>
 		<TaxiwayParking parentGroupID="7" index="24" type="FUEL" lat="18.30876208841800" lon="109.41100537776900" heading="352.725006" radius="8.000000" name="PARKING" number="26" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="7" groupIndex="1" index="25" type="FUEL" lat="18.30490339547400" lon="109.40035745501500" heading="262.998993" radius="7.000000" name="PARKING" number="27" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="7" groupIndex="2" index="0" type="GATE_SMALL" lat="18.30821223557000" lon="109.40802097320601" heading="358.799011" radius="18.000000" name="GATE" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="7" groupIndex="3" index="1" type="GATE_SMALL" lat="18.30803520977500" lon="109.40741568803800" heading="330.592010" radius="18.000000" name="GATE" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="7" groupIndex="4" index="2" type="GATE_SMALL" lat="18.30824006348850" lon="109.40850600600200" heading="5.373000" radius="18.000000" name="GATE" number="3" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="7" groupIndex="5" index="3" type="GATE_SMALL" lat="18.30832589417700" lon="109.40900087356600" heading="342.618988" radius="18.000000" name="GATE" number="4" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="7" groupIndex="6" index="4" type="GATE_SMALL" lat="18.30842379480600" lon="109.40947830677000" heading="358.239014" radius="18.000000" name="GATE" number="5" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="7" groupIndex="2" index="0" type="GATE_SMALL" lat="18.30821223557000" lon="109.40802097320601" heading="358.799011" radius="18.000000" name="GATE" number="103" suffix="NONE" numberMarking="TRUE" has3DMesh="TRUE" numberBiasX="10.384830" numberBiasZ="-99.179298" numberHeading="-8.584763"/>
+		<TaxiwayParking parentGroupID="7" groupIndex="3" index="1" type="GATE_SMALL" lat="18.30803520977500" lon="109.40741568803800" heading="330.592010" radius="18.000000" name="GATE" number="101" suffix="NONE" numberMarking="TRUE" has3DMesh="TRUE" numberBiasX="18.326330" numberBiasZ="-86.435722" numberHeading="-8.386523"/>
+		<TaxiwayParking parentGroupID="7" groupIndex="4" index="2" type="GATE_SMALL" lat="18.30824006348850" lon="109.40850600600200" heading="5.373000" radius="18.000000" name="GATE" number="105" suffix="NONE" numberMarking="TRUE" has3DMesh="TRUE" numberBiasX="6.708798" numberBiasZ="-95.494759" numberHeading="-8.298359"/>
+		<TaxiwayParking parentGroupID="7" groupIndex="5" index="3" type="GATE_SMALL" lat="18.30832589417700" lon="109.40900087356600" heading="342.618988" radius="18.000000" name="GATE" number="107" suffix="NONE" numberMarking="TRUE" has3DMesh="TRUE" numberBiasX="17.434465" numberBiasZ="-94.185593" numberHeading="-8.033252"/>
+		<TaxiwayParking parentGroupID="7" groupIndex="6" index="4" type="GATE_SMALL" lat="18.30842379480600" lon="109.40947830677000" heading="358.239014" radius="18.000000" name="GATE" number="109" suffix="NONE" numberMarking="TRUE" has3DMesh="TRUE" numberBiasX="6.354208" numberBiasZ="-98.358322" numberHeading="-12.613830"/>
 		<TaxiwayParking parentGroupID="7" groupIndex="7" index="8" type="RAMP_GA_SMALL" lat="18.30575063824650" lon="109.40889045596100" heading="171.347000" radius="7.000000" name="PARKING" number="10" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="7" groupIndex="8" index="9" type="RAMP_GA_SMALL" lat="18.30509483814240" lon="109.40900042653099" heading="136.302002" radius="7.000000" name="PARKING" number="11" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="7" groupIndex="9" index="10" type="RAMP_GA_SMALL" lat="18.30545995384450" lon="109.40894544124600" heading="336.949005" radius="7.000000" name="PARKING" number="12" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -1960,7 +1960,7 @@
 			<RunwayStart end="PRIMARY" lat="18.30496340990070" lon="109.42792028188700" alt="22.70699040000000" heading="262.17001342773438"/>
 			<RunwayStart end="SECONDARY" lat="18.30087035894390" lon="109.39658626914000" alt="22.70699040000000" heading="82.16999816894531"/>
 		</Runway>
-		<Jetway gateName="GATE" parkingNumber="1" suffix="NONE">
+		<Jetway gateName="GATE" parkingNumber="103" suffix="NONE">
 			<SceneryObject lat="18.30854784697290" lon="109.40771341323899" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-128.825700" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
@@ -1969,7 +1969,7 @@
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="GATE" parkingNumber="2" suffix="NONE">
+		<Jetway gateName="GATE" parkingNumber="101" suffix="NONE">
 			<SceneryObject lat="18.30848347395660" lon="109.40724983811400" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-93.949600" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
@@ -1978,7 +1978,7 @@
 				<LibraryObject name="{6D503EB6-F902-4249-951C-608989E705B6}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="GATE" parkingNumber="3" suffix="NONE">
+		<Jetway gateName="GATE" parkingNumber="105" suffix="NONE">
 			<SceneryObject lat="18.30859746783970" lon="109.40819442272200" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-149.414100" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
@@ -1987,7 +1987,7 @@
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="GATE" parkingNumber="4" suffix="NONE">
+		<Jetway gateName="GATE" parkingNumber="107" suffix="NONE">
 			<SceneryObject lat="18.30866184085610" lon="109.40865933895100" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-132.627000" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
@@ -1996,7 +1996,7 @@
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="GATE" parkingNumber="5" suffix="NONE">
+		<Jetway gateName="GATE" parkingNumber="109" suffix="NONE">
 			<SceneryObject lat="18.30877382308240" lon="109.40919935703300" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-139.295700" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
