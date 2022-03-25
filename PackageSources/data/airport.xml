@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<FlightSim>
+		<Geometry clipLevel="11"></Geometry>
+		<AttributeSet>
+			<AttributeBlock name="Version" guid="{CE85242F-4110-4706-8344-1F3A8EE422BE}">
+				<Field name="version" type="STRING" />
+			</AttributeBlock>
+			<AttributeBlock name="AirportBounds" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}">
+				<Field name="Uuid" type="GUID" />
+			</AttributeBlock>
+			<AttributeBlock name="Texture" guid="{1B6A15BB-05FB-4401-A8D1-BB520E84904C}">
+				<Field name="Guid" type="GUID" />
+			</AttributeBlock>
+			<AttributeBlock name="LandClassRemap" guid="{0A685EB0-0E01-44FE-B9EF-BFFFBC968ADE}">
+				<Field name="LCRemap" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="AirportSize" guid="{86A147E9-ACF2-4780-9D3C-416373ECB451}">
+				<Field name="AirprtSize" type="UINT8" />
+			</AttributeBlock>
+		</AttributeSet>
+	</FlightSim>
+</metadata>
